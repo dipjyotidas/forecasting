@@ -15,3 +15,5 @@ https://github.com/Benlau93/Machine-Learning-by-Andrew-Ng-in-Python
 https://github.com/kaleko/CourseraML
 
 https://www.fast.ai/about/
+
+https://jeddy92.github.io/JEddy92.github.io/ts_seq2seq_conv/ 
