@@ -20,3 +20,5 @@ https://www.fast.ai/about/
 https://github.com/drivendataorg/power-laws-forecasting/blob/master/3rd%20Place/Model_Documentation_and_Write_up.pdf
 
 https://jeddy92.github.io/JEddy92.github.io/ts_seq2seq_conv/ 
+
+https://github.com/Arturus/kaggle-web-traffic/ 
